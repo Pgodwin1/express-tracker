@@ -1,5 +1,5 @@
-export const ExpressTracker = () => {
+export const ExpenseTracker = () => {
     return(
-        <div>hello world</div>
+        <div>hello world Express tracker</div>
     )
 }
